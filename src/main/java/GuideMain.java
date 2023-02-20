@@ -13,7 +13,7 @@ public class GuideMain {
      * This is a main method. A main method is a method that Java is able to use as a starting point of the
      * application. You can run this method within your IDE. Most of the challenges in this repository do not
      * contain a main method, because we run our classes and methods within test cases instead. Main methods
-     * always follow the same structure: public static void main(String[] args){}
+     * ollow the same structure: public static void main(String[] args){}
      *
      * The main method will instantiate a new Guide object, produce a String using the Guide object's method
      * "guideMethod", and print to the Console what that String was.
